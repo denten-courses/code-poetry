@@ -33,11 +33,8 @@ Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Sp
 linfo.org,  Plain Text Definition.
 
 Lab: Terminal basics, markdown.
-75 pages 
 
-```
-```
-Week 2: Internet architecture
+### Week 2: Internet architecture
 Information and noise. Shannon-weaver communication model. Hypertext. Protocols. Technology as culture and politics. Client - server dialectic.
     
 Heidegger, Martin. The Question Concerning Technology, and Other Essays. New York: Harper & Row, 1977: 3–35.
@@ -51,9 +48,8 @@ Stevens, W. Richard, and Kevin W Fall. TCP/IP Illustrated. Volume 1. [Boston, MA
 linfo.org, OSI layer definitions: physical (wi-fi, bluetooth), data (bits into packets), network (ip), transport (tcp, udp), session, presentation (ascii, midi, mpeg), application (http, bittorrent)
 
 Lab: Cloud computing. Amazon AWS. Getting into your server with secure shell..
-```
-```
-Week 3: File and filing systems
+
+### Week 3: File and filing systems
     
 Bush, Vannevar. “As We May Think.” The Atlantic, July 1945. 
 
@@ -65,9 +61,7 @@ Morgan Phillips. Linux poetry.
 
 Lab: package management, sys admin basics
 
-```
-```
-Week 4: Security and access 
+### Week 4: Security and access 
 
 Kernighan, Brian W, and Rob Pike. The UNIX Programming Environment. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
 
@@ -75,10 +69,9 @@ Beckett, Samuel. Krapp’s Last Tape and Other Dramatic Pieces. New York: Grove 
 
 Lab:  groups, file permissions, rights management
 
-```
 ## Part II | CODE
-```
-Formal and artificial languages. Interpreters and interpretation.
+### Week 5: Formal and artificial languages. 
+Interpreters and interpretation.
 
 Wilkins, John. An Essay Towards a Real Character and a Philosophical Language. S. Gellibrand, 1668.
 
@@ -87,9 +80,8 @@ de Campos, Augusto. "Bob Brown: Optical Poems," the introduction to the Brazilia
 Brown, Bob. “The Readies.” OpenStax-CNX. Accessed June 24, 2014. http://cnx.org/content/m31518/latest/.
 Selections from Gardner, Martin. Logic Machines and Diagrams. Chicago: Univ of Chicago Pr, 1982.
 Lab: Hello world in python. Variables. iPython debugger.
-```
-```
-Week 6: Algorithmic imagination
+
+### Week 6: Algorithmic imagination
 Computer and literary algorithms. History of algorithmic imagination.
 
 Knuth, Donald E. “Chapter 1: Basic Concepts” in The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition. Reading, Mass: Addison-Wesley Professional, 1997.
@@ -101,13 +93,10 @@ Selections from Hollander, John. Rhyme’s Reason: A Guide to English Verse. 3rd
 Aarseth, Espen J. “The Cyborg Author: Problems of Automated Poetics.” In Cybertext: Perspectives on Ergodic Literature, 129–142. Baltimore, MD: Johns Hopkins University Press, 1997.
 
 Lab: Programmer’s mindset. Where to get help. Pseudo code. 
-```
-```
-!!! Midterm !!!
 
-```
-```
-Week 7: From text to data
+!!! Midterm TBA 
+
+### Week 7: From text to data
 Data types. Metadata. From plain text to data. Databases. Concepts of digital and analog.
 
 Knuth, Donald E. “Chapter 2: Information Structures” in The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition. Reading, Mass: Addison-Wesley Professional, 1997.
@@ -122,9 +111,7 @@ Browne, Thomas. “Musaeum Clausum” in Certain Miscellany Tracts. London: Prin
 
 Lab:  Intro to NLTK.
 
-```
-```
-Week 8: Logic and flow
+### Week 8: Logic and flow
 Control structures. Iteration. Recursion. Mise en Abyme. Procedural worlds and procedural thinking.
 
 Young, La Monte, "Notes on The Theatre of Eternal Music and The Tortoise, His Dreams and Journeys", 2000, Mela Foundation, www.melafoundation.org.
@@ -137,19 +124,15 @@ Selections from Downey, Allen B. Think Python. 1 edition. Sebastopol, CA: O’Re
 
 Lab: Control structures in Python.
 
-```
-```
-Week 9: Object oriented ontology
+### Week 9: Object oriented ontology
 Taxonomy, ontology. Classes, methods, functions.
 
 Selections from Foucault, Michel. The Order of Things: An Archaeology of the Human Sciences. Reissue edition. New York: Vintage, 1994.
 Selections from Downey, Allen B. Think Python. 1 edition. Sebastopol, CA: O’Reilly Media, 2012.
 Lab: Understanding classes. Writing functions. Passing data.
 
-```
 ## Part III | POLITICS & POETICS
-```
-Week 10: AI and unintelligent design
+### Week 10: AI and unintelligent design
 
 Browne, Thomas. “The Garden of Cyrus, or The Quincunciall Lozenge, or Network Plantations of the Ancients, naturally, artificially, mystically considered” in Certain Miscellany Tracts. London: Printed for Charles Mearne: And are to be sold by Henry Bonwick , 1684.
 
@@ -158,17 +141,15 @@ Magee, Michael. The Flarf Files (2003). Accessed and archived on 06/24/14.
 Selections from Chiang, Ted. The Lifecycle of Software Objects. Subterranean Press, 2011.
 
 Lab: supervised / unsupervised machine learning, writing flarf computationally.
-```
-```
-Week 11: Man-machine
+
+### Week 11: Man-machine
 Human-computer interfaces. 
 
-    Voskuhl, Adelheid. “Humans, Machines, and Conversations: An Ethnographic Study of the Making of Automatic Speech Recognition Technologies.” Social Studies of Science 34, no. 3 (June 1, 2004): 393–421.
-    Selections from Norman, Donald A. The Design of Everyday Things. New York: Basic Books, 1988.
+Voskuhl, Adelheid. “Humans, Machines, and Conversations: An Ethnographic Study of the Making of Automatic Speech Recognition Technologies.” Social Studies of Science 34, no. 3 (June 1, 2004): 393–421.
+Selections from Norman, Donald A. The Design of Everyday Things. New York: Basic Books, 1988.
 Lab: Design process. Brainstorming. Wireframes.
-```
-```
-Week 12: Peer production
+
+### Week 12: Peer production
 
 Benkler, Yochai, and Helen Nissenbaum. “Commons-Based Peer Production and Virtue” Journal of Political Philosophy 14, no. 4 (December 1, 2006): 394–419.
 
@@ -177,9 +158,8 @@ Monroy-Hern, res, and ez. “Cooperation and Attribution in an Online Community 
 Diakopoulos, Nicholas, Kurt Luther, Yevgeniy (Eugene) Medynskiy, and Irfan Essa. “The Evolution of Authorship in a Remix Society.” In Proceedings of the Eighteenth Conference on Hypertext and Hypermedia, 133–36. HT ’07. New York, NY, USA: ACM, 2007. 
 
 Lab: Project management. Github workflow.
-```
-```
-Week 13: Crypto-anarchism
+
+### Week 13: Crypto-anarchism
 The hype and the promise of cryptography. Bitcoin. Censorship and surveillance. Privacy.
 
 Selection from Vinge, Vernor; Frankel, James (2001), True Names: And the Opening of the Cyberspace Frontier, Tor Books.
