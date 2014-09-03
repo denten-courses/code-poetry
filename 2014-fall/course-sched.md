@@ -20,7 +20,7 @@ Finally, we will contextualize our practice historically. The course will connec
 
 No prior experience is required.
 
-## Course Requirements and Grading
+## Requirements and Grading
     20% Participation (class discussion + weekly forum posts + community moderation)
     20% Annotated lab notebooks
     25% Midterm 
@@ -35,6 +35,9 @@ No prior experience is required.
 * [Labs](https://github.com/denten-courses/teaching-concepts/blob/master/studio-lab.md)
 * [Lab Notebooks](https://github.com/denten-courses/teaching-concepts/blob/master/lab-notebooks.md)
 * [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
+
+## Links & Resources
+* [Class forum](https://piazza.com/class/hzmnyudogfehr)
 
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
