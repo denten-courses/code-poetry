@@ -44,7 +44,7 @@ No prior experience is required.
 
 Please email me if you cannot access any of these sites and documents.
 
-**Provisional Course Schedule**
+# Provisional Course Schedule
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
 Ethics of plain text. Encoding. Surface, depth. WYSIWYG. 
