@@ -24,15 +24,15 @@ No prior experience is required.
 ### Week 1: Plain text
 Ethics of plain text. Encoding. Surface, depth. WYSIWYG. 
  
-Marx, Karl. “Preface.” A Contribution to the Critique of Political Economy. New York, International Publishers,1970. 
+* Marx, Karl. “Preface.” A Contribution to the Critique of Political Economy. New York, International Publishers,1970. 
 
-Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.” Representations 108, no. 1 (November 2009): 1–21. doi:10.1525/rep.2009.108.1.1
+* Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.” Representations 108, no. 1 (November 2009): 1–21. doi:10.1525/rep.2009.108.1.1
 
-Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.” Poetics Today 25, no. 1 (2004): 67–90.
+* Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.” Poetics Today 25, no. 1 (2004): 67–90.
 
-linfo.org,  Plain Text Definition.
+* linfo.org,  Plain Text Definition.
 
-Lab: Terminal basics, markdown.
+**Lab:** Terminal basics, markdown.
 
 ### Week 2: Internet architecture
 Information and noise. Shannon-weaver communication model. Hypertext. Protocols. Technology as culture and politics. Client - server dialectic.
