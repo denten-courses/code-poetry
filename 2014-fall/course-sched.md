@@ -38,10 +38,11 @@ No prior experience is required.
 
 ## Links & Resources
 * All readings will be linked from the syllabus directly
-* [Class forum](https://piazza.com/class/hzmnyudogfehr) We will use Piazza for our weekly forum.
-* [Columbia Courseworks](https://courseworks.columbia.edu/portal/site/ENGLW4911_001_2014_3/page/f64ef578-afc6-42d3-af08-53e8d21d5772) used mostly for course evaluation.
+* [Class forum](https://piazza.com/class/hzmnyudogfehr). We will use Piazza for our weekly forum.
+* [Columbia Courseworks](https://courseworks.columbia.edu/portal/site/ENGLW4911_001_2014_3/page/f64ef578-afc6-42d3-af08-53e8d21d5772). Used mostly for course evaluation.
+* Grades will be linked here.
 
-Please email me if you cannot access either of these sites.
+Please email me if you cannot access any of these sites and documents.
 
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
