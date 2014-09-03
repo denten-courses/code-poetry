@@ -9,6 +9,7 @@ where: M Math 307, W Butler 208b
 
 ---
 
+# Code and Poetry, Critical Practice in Humanities Computing
 ## Course Description
 For many, even for those with a technical education, computing remains an unreflective activity. Machines do things for us: they “process” words, “manage” content, and “serve” web pages. These agents, located at the core of human-computer interaction, shape our understanding of the each other and of the world in significant ways, and yet they remain opaque, obscured within the black boxes of restricted access and proprietary software.
 
