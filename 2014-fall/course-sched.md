@@ -1,6 +1,6 @@
 ---
 semester: Fall 2014
-title: Code and Poetry: Critical Practice in Humanities Computing
+title: Code and Poetry, Critical Practice in Humanities Computing
 course number: ENGL 4911
 professor: Dennis Tenen
 contact: dt2406@
