@@ -21,8 +21,7 @@ Finally, we will contextualize our practice historically. The course will connec
 No prior experience is required.
 
 ## Part I | BOOTSTRAP
-```
-Week 1: Plain text
+### Week 1: Plain text
 Ethics of plain text. Encoding. Surface, depth. WYSIWYG. 
  
 Marx, Karl. “Preface.” A Contribution to the Critique of Political Economy. New York, International Publishers,1970. 
