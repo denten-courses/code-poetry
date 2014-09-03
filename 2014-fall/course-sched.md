@@ -55,7 +55,7 @@ Ethics of plain text. Encoding. Surface, depth. WYSIWYG.
 
 * Hayles, N. Katherine. “[Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract).” Poetics Today 25, no. 1 (2004): 67–90.
 
-* linfo.org,  Plain Text Definition.
+* linfo.org,  [Plain Text Definition](http://www.linfo.org/plaintext.html).
 
 **Lab:** Terminal basics, markdown.
 
