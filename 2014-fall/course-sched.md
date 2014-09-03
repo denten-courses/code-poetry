@@ -27,6 +27,7 @@ No prior experience is required.
     35% Final Exam
 
 ## Course Concepts 
+* [Academic Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
 * [Active Laptop Policy](https://github.com/denten-courses/teaching-concepts/blob/master/laptop-policy.md)
 * [Always on Office Hours](https://github.com/denten-courses/teaching-concepts/blob/master/always-on-office-hours.md)
 * [Community Moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md)
@@ -34,10 +35,6 @@ No prior experience is required.
 * [Labs](https://github.com/denten-courses/teaching-concepts/blob/master/studio-lab.md)
 * [Lab Notebooks](https://github.com/denten-courses/teaching-concepts/blob/master/lab-notebooks.md)
 * [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
-
-## University Policies
-When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to the research community at large. It wastes my time and yours, and is, ultimately, not worth the risk. Consult Culumbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> or ask me for help early in the writing process. 
-
 
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
