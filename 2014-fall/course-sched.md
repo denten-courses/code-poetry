@@ -9,7 +9,6 @@ where: M Math 307, W Butler 208b
 
 ---
 
-# Code and Poetry: Critical Practice in Humanities Computing
 ## Course Description
 For many, even for those with a technical education, computing remains an unreflective activity. Machines do things for us: they “process” words, “manage” content, and “serve” web pages. These agents, located at the core of human-computer interaction, shape our understanding of the each other and of the world in significant ways, and yet they remain opaque, obscured within the black boxes of restricted access and proprietary software.
 
@@ -20,6 +19,25 @@ Second, we will build on these theoretical foundations to gain a measure of comp
 Finally, we will contextualize our practice historically. The course will connect core concepts in computer science to long-standing problems posed by philosophy, literary theory, and social thought. 
 
 No prior experience is required.
+
+## Course Requirements and Grading
+    20% Participation (class discussion + weekly forum posts + community moderation)
+    20% Annotated lab notebooks
+    25% Midterm 
+    35% Final Exam
+
+## Course Concepts 
+* [Active Laptop Policy](https://github.com/denten-courses/teaching-concepts/blob/master/laptop-policy.md)
+* [Always on Office Hours](https://github.com/denten-courses/teaching-concepts/blob/master/always-on-office-hours.md)
+* [Community Moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md)
+* [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
+* [Labs](https://github.com/denten-courses/teaching-concepts/blob/master/studio-lab.md)
+* [Lab Notebooks](https://github.com/denten-courses/teaching-concepts/blob/master/lab-notebooks.md)
+* [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
+
+## University Policies
+When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to the research community at large. It wastes my time and yours, and is, ultimately, not worth the risk. Consult Culumbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> or ask me for help early in the writing process. 
+
 
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
