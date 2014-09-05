@@ -57,7 +57,7 @@ Ethics of plain text. Encoding. Surface, depth. WYSIWYG.
 
 * linfo.org,  [Plain Text Definition](http://www.linfo.org/plaintext.html).
 
-**Lab:** Terminal basics, markdown.
+**Studio:** Terminal basics, markdown.
 
 ### Week 2: Internet architecture
 Information and noise. Shannon-weaver communication model. Hypertext. Protocols. Technology as culture and politics. Client - server dialectic.
@@ -72,7 +72,7 @@ Information and noise. Shannon-weaver communication model. Hypertext. Protocols.
 
 * linfo.org, OSI layer definitions: physical (wi-fi, bluetooth), data (bits into packets), network (ip), transport (tcp, udp), session, presentation (ascii, midi, mpeg), application (http, bittorrent)
 
-**Lab:** Cloud computing. Amazon AWS. Getting into your server with secure shell..
+**Studio:** Cloud computing. Amazon AWS. Getting into your server with secure shell..
 
 ### Week 3: File and filing systems
     
@@ -84,7 +84,7 @@ Information and noise. Shannon-weaver communication model. Hypertext. Protocols.
 
 * Morgan Phillips. Linux poetry.
 
-**Lab:** package management, sys admin basics
+**Studio:** package management, sys admin basics
 
 ### Week 4: Security and access 
 
@@ -92,7 +92,7 @@ Information and noise. Shannon-weaver communication model. Hypertext. Protocols.
 
 * Beckett, Samuel. Krapp’s Last Tape and Other Dramatic Pieces. New York: Grove Press, 2009.
 
-**Lab:**  groups, file permissions, rights management
+**Studio:**  groups, file permissions, rights management
 
 ## Part II | CODE
 ### Week 5: Formal and artificial languages. 
@@ -104,7 +104,8 @@ Interpreters and interpretation.
 
 * Brown, Bob. “The Readies.” OpenStax-CNX. Accessed June 24, 2014. http://cnx.org/content/m31518/latest/.
 Selections from Gardner, Martin. Logic Machines and Diagrams. Chicago: Univ of Chicago Pr, 1982.
-Lab: Hello world in python. Variables. iPython debugger.
+
+**Studio:** Hello world in python. Variables. iPython debugger.
 
 ### Week 6: Algorithmic imagination
 Computer and literary algorithms. History of algorithmic imagination.
@@ -117,7 +118,7 @@ Computer and literary algorithms. History of algorithmic imagination.
 
 * Aarseth, Espen J. “The Cyborg Author: Problems of Automated Poetics.” In Cybertext: Perspectives on Ergodic Literature, 129–142. Baltimore, MD: Johns Hopkins University Press, 1997.
 
-**Lab:** Programmer’s mindset. Where to get help. Pseudo code. 
+**Studio:** Programmer’s mindset. Where to get help. Pseudo code. 
 
 !!! Midterm TBA 
 
@@ -134,7 +135,7 @@ Data types. Metadata. From plain text to data. Databases. Concepts of digital an
 
 * Browne, Thomas. “Musaeum Clausum” in Certain Miscellany Tracts. London: Printed for Charles Mearne : And are to be sold by Henry Bonwick ..., 1684.
 
-**Lab:**  Intro to NLTK.
+**Studio:**  Intro to NLTK.
 
 ### Week 8: Logic and flow
 Control structures. Iteration. Recursion. Mise en Abyme. Procedural worlds and procedural thinking.
@@ -147,7 +148,7 @@ Control structures. Iteration. Recursion. Mise en Abyme. Procedural worlds and p
 
 * Selections from Downey, Allen B. Think Python. 1 edition. Sebastopol, CA: O’Reilly Media, 2012.
 
-**Lab:** Control structures in Python.
+**Studio:** Control structures in Python.
 
 ### Week 9: Object oriented ontology
 Taxonomy, ontology. Classes, methods, functions.
@@ -155,7 +156,7 @@ Taxonomy, ontology. Classes, methods, functions.
 * Selections from Foucault, Michel. The Order of Things: An Archaeology of the Human Sciences. Reissue edition. New York: Vintage, 1994.
 * Selections from Downey, Allen B. Think Python. 1 edition. Sebastopol, CA: O’Reilly Media, 2012.
 
-**Lab:**  Understanding classes. Writing functions. Passing data.
+**Studio:**  Understanding classes. Writing functions. Passing data.
 
 ## Part III | POLITICS & POETICS
 ### Week 10: AI and unintelligent design
@@ -166,7 +167,7 @@ Taxonomy, ontology. Classes, methods, functions.
 
 * Selections from Chiang, Ted. The Lifecycle of Software Objects. Subterranean Press, 2011.
 
-**Lab:** supervised / unsupervised machine learning, writing flarf computationally.
+**Studio:** supervised / unsupervised machine learning, writing flarf computationally.
 
 ### Week 11: Man-machine
 Human-computer interfaces. 
@@ -175,7 +176,7 @@ Human-computer interfaces.
 Selections from Norman, Donald A. The Design of Everyday Things. New York: Basic Books, 1988.
 Lab: Design process. Brainstorming. Wireframes.
 
-**Lab:** TBA
+**Studio:** TBA
 
 ### Week 12: Peer production
 
@@ -185,7 +186,7 @@ Lab: Design process. Brainstorming. Wireframes.
 
 * Diakopoulos, Nicholas, Kurt Luther, Yevgeniy (Eugene) Medynskiy, and Irfan Essa. “The Evolution of Authorship in a Remix Society.” In Proceedings of the Eighteenth Conference on Hypertext and Hypermedia, 133–36. HT ’07. New York, NY, USA: ACM, 2007. 
 
-**Lab:** Project management. Github workflow.
+**Studio:** Project management. Github workflow.
 
 ### Week 13: Crypto-anarchism
 The hype and the promise of cryptography. Bitcoin. Censorship and surveillance. Privacy.
@@ -198,6 +199,6 @@ The hype and the promise of cryptography. Bitcoin. Censorship and surveillance. 
 
 * Steven Levy "Crypto Rebels"
 
-**Lab:** Public-key cryptography, VPN, Tor, encryption. 
+**Studio:** Public-key cryptography, VPN, Tor, encryption. 
 
 !!! Final Exam TBA
