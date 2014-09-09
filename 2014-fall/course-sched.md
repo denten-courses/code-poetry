@@ -5,7 +5,7 @@ course number: ENGL 4911
 professor: Dennis Tenen
 contact: dt2406@
 when: M & W 11:40 - 12:55
-where: M Math 307, W Butler 208b
+where: M Math 520, W Butler 208b
 
 ---
 
