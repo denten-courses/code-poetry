@@ -62,11 +62,11 @@ Text and hypertext. Encoding. Surface, depth. WYSIWYG.
 ### Week 2: Form, formatting, content 
 Technology as culture and politics. Compiling text. Typesetting.
 
-* Heidegger, Martin. [The Question Concerning Technology, and Other Essays](http://ssbothwell.com/documents/ebooksclub.org__The_Question_Concerning_Technology_and_Other_Essays.pdf). New York: Harper & Row, 1977: 3–36.
+* Heidegger, Martin. [The Question Concerning Technology, and Other Essays](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Question_Concerning_Technology_and_Other_Essays.pdf). New York: Harper & Row, 1977: 3–36.
 
 * Winner, Langdon. “[Do Artifacts Have Politics?](http://innovate.ucsb.edu/wp-content/uploads/2010/02/Winner-Do-Artifacts-Have-Politics-1980.pdf)” Daedalus 109, no. 1 (January 1, 1980): 121–36.
 
-* Sontag, Susan. "[Against Interpretation](http://www.scribd.com/doc/55840313/Sontag-Against-Interpretation)."
+* Sontag, Susan. "[Against Interpretation](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Sontag-Against-Interpretation.pdf)."
 
 **Studio:** Pandoc and Markdown.
 
