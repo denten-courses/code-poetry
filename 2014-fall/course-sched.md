@@ -47,7 +47,7 @@ Please email me if you cannot access any of these sites and documents.
 # Provisional Course Schedule
 ## Part I | BOOTSTRAP
 ### Week 1: Plain text
-Ethics of plain text. Encoding. Surface, depth. WYSIWYG. 
+Text and hypertext. Encoding. Surface, depth. WYSIWYG. 
  
 * Marx, Karl. “[Preface](https://archive.org/details/acontributionto01marxgoog).” A Contribution to the Critique of Political Economy. New York, International Publishers,1970. 
 
@@ -57,22 +57,18 @@ Ethics of plain text. Encoding. Surface, depth. WYSIWYG.
 
 * linfo.org,  [Plain Text Definition](http://www.linfo.org/plaintext.html).
 
-**Studio:** Terminal basics, markdown.
+**Studio:** Terminal basics.
 
-### Week 2: Internet architecture
-Information and noise. Shannon-weaver communication model. Hypertext. Protocols. Technology as culture and politics. Client - server dialectic.
-    
-* Heidegger, Martin. The Question Concerning Technology, and Other Essays. New York: Harper & Row, 1977: 3–35.
+### Week 2: Form, formatting, content 
+Technology as culture and politics. Compiling text. Typesetting.
 
-* Selections from Kojève, Alexander: Introduction to the Reading of Hegel. New York, Basic Books, 1969
+* Heidegger, Martin. [The Question Concerning Technology, and Other Essays](http://ssbothwell.com/documents/ebooksclub.org__The_Question_Concerning_Technology_and_Other_Essays.pdf). New York: Harper & Row, 1977: 3–36.
 
-* Winner, Langdon. “Do Artifacts Have Politics?” Daedalus 109, no. 1 (January 1, 1980): 121–36.
+* Winner, Langdon. “[Do Artifacts Have Politics?](http://innovate.ucsb.edu/wp-content/uploads/2010/02/Winner-Do-Artifacts-Have-Politics-1980.pdf)” Daedalus 109, no. 1 (January 1, 1980): 121–36.
 
-* Stevens, W. Richard, and Kevin W Fall. TCP/IP Illustrated. Volume 1. [Boston, MA]: Addison-Wesley, 2011. 
+* Sontag, Susan. "[Against Interpretation](http://www.scribd.com/doc/55840313/Sontag-Against-Interpretation)."
 
-* linfo.org, OSI layer definitions: physical (wi-fi, bluetooth), data (bits into packets), network (ip), transport (tcp, udp), session, presentation (ascii, midi, mpeg), application (http, bittorrent)
-
-**Studio:** Cloud computing. Amazon AWS. Getting into your server with secure shell..
+**Studio:** Pandoc and Markdown.
 
 ### Week 3: File and filing systems
     
@@ -202,3 +198,15 @@ The hype and the promise of cryptography. Bitcoin. Censorship and surveillance. 
 **Studio:** Public-key cryptography, VPN, Tor, encryption. 
 
 !!! Final Exam TBA
+
+
+### In Flux:
+Week 2: Internet architecture
+**Studio:** Cloud computing. Amazon AWS. Getting into your server with secure shell..
+* ~~~Selections from Kojève, Alexander: Introduction to the Reading of Hegel. New York, Basic Books, 1969
+Protocols.  Client - server dialectic.
+* Stevens, W. Richard, and Kevin W Fall. TCP/IP Illustrated. Volume 1. [Boston, MA]: Addison-Wesley, 2011. 
+
+* linfo.org, OSI layer definitions: physical (wi-fi, bluetooth), data (bits into packets), network (ip), transport (tcp, udp), session, presentation (ascii, midi, mpeg), application (http, bittorrent)
+
+
