@@ -72,13 +72,11 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 ### Week 3: File and filing systems
     
-* Bush, Vannevar. “As We May Think.” The Atlantic, July 1945. 
+* Bush, Vannevar. “[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).” The Atlantic, July 1945. 
 
-* Tagg, John. “The Archiving Machine; Or, The Camera and the Filing Cabinet.” Grey Room, no. 47 (April 1, 2012): 24–37.
+* Tagg, John. “[The Archiving Machine; Or, The Camera and the Filing Cabinet](http://www.mitpressjournals.org/doi/abs/10.1162/GREY_a_00068).” Grey Room, no. 47 (April 1, 2012): 24–37.
 
-* Selections from Derrida, Jacques. Paper Machine. Translated by Rachel Bowlby. Stanford, Calif: Stanford University Press, 2005.
-
-* Morgan Phillips. Linux poetry.
+* Selections from [Files](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fymsc.commons.yale.edu%2Ffiles%2F2009%2F09%2Ffiles.pdf&ei=MYgYVPfcNuzksAS2oIDgDw&usg=AFQjCNFxRRR8J6n9VQcGyk0iZ1mvcu8Fbw&sig2=ylb2qlUZAbnV-UgrhP1chw) by Cornelia Vismann, pp1-38.
 
 **Studio:** package management, sys admin basics
 
@@ -87,6 +85,8 @@ Technology as culture and politics. Compiling text. Typesetting.
 * Kernighan, Brian W, and Rob Pike. The UNIX Programming Environment. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
 
 * Beckett, Samuel. Krapp’s Last Tape and Other Dramatic Pieces. New York: Grove Press, 2009.
+
+* Morgan Phillips. Linux poetry.
 
 **Studio:**  groups, file permissions, rights management
 
