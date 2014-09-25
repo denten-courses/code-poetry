@@ -86,7 +86,7 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 * Weaver, Warren. "[Recent Contributions to the Mathematical Theory of Communications](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Mathematical_Theory_of_Communication_-_Shannon_Weaver__1964_.pdf)", pp 1-29 in *The Mathematical Theory of Communication*.
 
-McLuhan, Marshall. "[The Medium is the Message](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Marshall%20McLuhan%20Understanding%20media%20%201995.pdf)" in *Understanding Media*, pp 7-22.
+* McLuhan, Marshall. "[The Medium is the Message](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Marshall%20McLuhan%20Understanding%20media%20%201995.pdf)" in *Understanding Media*, pp 7-22.
 
 **Studio:**  groups, file permissions, rights management
 
