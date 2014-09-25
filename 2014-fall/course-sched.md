@@ -80,19 +80,23 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 **Studio:** package management, sys admin basics
 
-### Week 4: Security and access 
+### Week 4: Medium and Message 
 
-* Kernighan, Brian W, and Rob Pike. The UNIX Programming Environment. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
+* Beckett, Samuel. *[Krapp’s Last Tape](https://www.msu.edu/~sullivan/BeckettKrapp.html)*.
 
-* Beckett, Samuel. Krapp’s Last Tape and Other Dramatic Pieces. New York: Grove Press, 2009.
+* Weaver, Warren. "[Recent Contributions to the Mathematical Theory of Communications](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Mathematical_Theory_of_Communication_-_Shannon_Weaver__1964_.pdf)", pp 1-29 in *The Mathematical Theory of Communication*.
 
-* Morgan Phillips. Linux poetry.
+McLuhan, Marshall. "[The Medium is the Message](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Marshall%20McLuhan%20Understanding%20media%20%201995.pdf)" in *Understanding Media*, pp 7-22.
 
 **Studio:**  groups, file permissions, rights management
 
 ## Part II | CODE
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
+
+* Kernighan, Brian W, and Rob Pike. "The File System" in *The UNIX Programming Environment*. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
+
+* Morgan Phillips. *[I/O Multiplexing](http://www.linux-poetry.com/10/)*.
 
 * Wilkins, John. An Essay Towards a Real Character and a Philosophical Language. S. Gellibrand, 1668.
 
