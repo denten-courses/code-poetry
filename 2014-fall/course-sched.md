@@ -90,6 +90,9 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 **Studio:**  groups, file permissions, rights management
 
+### Week 5: Bad Links
+TBA
+
 ## Part II | CODE
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
