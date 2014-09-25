@@ -74,7 +74,7 @@ Technology as culture and politics. Compiling text. Typesetting.
     
 * Bush, Vannevar. “[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).” The Atlantic, July 1945. 
 
-* Tagg, John. “[The Archiving Machine; Or, The Camera and the Filing Cabinet](http://www.mitpressjournals.org/doi/abs/10.1162/GREY_a_00068).” Grey Room, no. 47 (April 1, 2012): 24–37.
+* Tagg, John. “[The Archiving Machine; Or, The Camera and the Filing Cabinet](http://www.mitpressjournals.org.ezproxy.cul.columbia.edu/doi/pdf/10.1162/GREY_a_00068).” Grey Room, no. 47 (April 1, 2012): 24–37.
 
 * Selections from *[Files](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fymsc.commons.yale.edu%2Ffiles%2F2009%2F09%2Ffiles.pdf&ei=MYgYVPfcNuzksAS2oIDgDw&usg=AFQjCNFxRRR8J6n9VQcGyk0iZ1mvcu8Fbw&sig2=ylb2qlUZAbnV-UgrhP1chw)* by Cornelia Vismann, pp 1-38.
 
