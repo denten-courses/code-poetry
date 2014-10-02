@@ -93,7 +93,7 @@ Technology as culture and politics. Compiling text. Typesetting.
 ### Week 5: Digital and Analog
 
 * "[Analog and Analog](http://search.proquest.com/docview/1294920773)," by John Haugeland.
-* "[Analog and Digital Representation(http://link.springer.com/article/10.1007%2Fs11023-008-9112-8)," Matthew Katz
+* "[Analog and Digital Representation](http://link.springer.com/article/10.1007%2Fs11023-008-9112-8)," Matthew Katz
 * pp 242 - 263 in *[Gramophone, Film, Typewriter](https://docs.google.com/file/d/0B4OAOue0b3VMQVBhSC0xLUZXdDA/edit?usp=sharing)* by Friedrich Kittler.
 
 ## Part II | CODE
