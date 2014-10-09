@@ -102,7 +102,7 @@ Technology as culture and politics. Compiling text. Typesetting.
 * pp 139 - 161 in *[A Foray into the Worlds of Animals and Humans](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Jakob_von_Uexk%C3%BCll_A_Foray_Into_the_Worlds_of_Animals_and_Humans_With_a_Theory_of_Meaning__2010.pdf)* by Jakob von Uexkull
 * "[A Discipline Independent Definition of Information](http://www.ils.unc.edu/~losee/book5.pdf)" by Robert M. Losee
 * "[A Re-examination of Bateson's Rule](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Gregory%20Bateson%20-%20Ecology%20of%20Mind.pdf)" pp 384-404 in *Steps to an Ecology of Mind* by Gregory Bateson.
-* *[Notes Towards the Complete Works of Shakespeare](https://drive.google.com/file/d/0B4OAOue0b3VMM3ZWRERGTWd4UWs/view?usp=sharing)" by Elmo, Gum, Heather, Holly, Misletoe, and Rowan. 
+* *[Notes Towards the Complete Works of Shakespeare](https://drive.google.com/file/d/0B4OAOue0b3VMM3ZWRERGTWd4UWs/view?usp=sharing)* by Elmo, Gum, Heather, Holly, Misletoe, and Rowan. 
 
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ## Part II | CODE
