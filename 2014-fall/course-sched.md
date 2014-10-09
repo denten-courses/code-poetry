@@ -76,6 +76,8 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 * Tagg, John. “[The Archiving Machine; Or, The Camera and the Filing Cabinet](http://www.mitpressjournals.org.ezproxy.cul.columbia.edu/doi/pdf/10.1162/GREY_a_00068).” Grey Room, no. 47 (April 1, 2012): 24–37.
 
+* Kernighan, Brian W, and Rob Pike. "The File System" in *The UNIX Programming Environment*. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
+
 * Selections from *[Files](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fymsc.commons.yale.edu%2Ffiles%2F2009%2F09%2Ffiles.pdf&ei=MYgYVPfcNuzksAS2oIDgDw&usg=AFQjCNFxRRR8J6n9VQcGyk0iZ1mvcu8Fbw&sig2=ylb2qlUZAbnV-UgrhP1chw)* by Cornelia Vismann, pp 1-38.
 
 **Studio:** package management, sys admin basics
@@ -96,14 +98,18 @@ Technology as culture and politics. Compiling text. Typesetting.
 * "[Analog and Digital Representation](http://link.springer.com/article/10.1007%2Fs11023-008-9112-8)," Matthew Katz
 * pp 242 - 263 in *[Gramophone, Film, Typewriter](https://docs.google.com/file/d/0B4OAOue0b3VMQVBhSC0xLUZXdDA/edit?usp=sharing)* by Friedrich Kittler.
 
+### Week 6: Information 
+* pp 139 - 161 in *[A Foray into the Worlds of Animals and Humans](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Jakob_von_Uexk%C3%BCll_A_Foray_Into_the_Worlds_of_Animals_and_Humans_With_a_Theory_of_Meaning__2010.pdf)* by Jakob von Uexkull
+* "[A Discipline Independent Definition of Information](http://www.ils.unc.edu/~losee/book5.pdf)" by Robert M. Losee
+* "[A Re-examination of Bateson's Rule](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Gregory%20Bateson%20-%20Ecology%20of%20Mind.pdf)" pp 384-404 in *Steps to an Ecology of Mind* by Gregory Bateson.
+* *[Notes Towards the Complete Works of Shakespeare](https://drive.google.com/file/d/0B4OAOue0b3VMM3ZWRERGTWd4UWs/view?usp=sharing)" by Elmo, Gum, Heather, Holly, Misletoe, and Rowan. 
+
+# THIS SECTION IS IN FLUX DO NOT READ YET
 ## Part II | CODE
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
-
-* Kernighan, Brian W, and Rob Pike. "The File System" in *The UNIX Programming Environment*. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
-
-* Morgan Phillips. *[I/O Multiplexing](http://www.linux-poetry.com/10/)*.
-
+* Roman Jakobson, “Linguistics and Poetics”  
+* Kernighan, Brian. "Chapter 5: Programming and Programming Languages" in *D is for Digital*. 
 * Wilkins, John. An Essay Towards a Real Character and a Philosophical Language. S. Gellibrand, 1668.
 
 * de Campos, Augusto. "Bob Brown: Optical Poems," the introduction to the Brazilian edition of Brown's 1450-1950. First published in Suplemento Literário de “O Estado de São Paulo” / Literary Supplement of the newspaper O Estado de São Paulo. 9 January 1965. Later included, with several poems of Bob Brown's from the Jargon Books Edition, in the book A MARGEM DA MARGEM (AT THE MARGIN OF THE MARGIN). São Paulo, Brazil: Companhia das Letras, 1989: 126-141.
