@@ -113,6 +113,12 @@ Technology as culture and politics. Compiling text. Typesetting.
 * Lab on Monday 
 * Workshop on Wednesday
 
+### Week 8: Hardware
+* Part I in Brian Kernighan's *D is for Digital*
+* Friedrich Kittler, [There is No Software](http://www.ctheory.net/articles.aspx?id=74)
+* "[ENIAC: The Army-Sponsored Revolution](http://ftp.arl.army.mil/mike/comphist/96summary/index.html)" by  William T. Moye
+* "[Proposed Electronic Calculator](http://ftp.arl.army.mil/mike/comphist/96summary/index.html)" by Alan Turing
+
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
