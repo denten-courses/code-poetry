@@ -119,6 +119,13 @@ Technology as culture and politics. Compiling text. Typesetting.
 * "[ENIAC: The Army-Sponsored Revolution](http://ftp.arl.army.mil/mike/comphist/96summary/index.html)" by  William T. Moye
 * "[On Computable Numbers](http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf),"  by Alan Turing (1936)
 
+**Explore**: <http://morphett.info/turing/turing.html>
+
+
+### Week 9: Midterms
+Monday: University Holiday  
+Wednesday: Midterms / project proposals due.
+
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
