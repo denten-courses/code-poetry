@@ -113,7 +113,7 @@ Technology as culture and politics. Compiling text. Typesetting.
 * Lab on Monday 
 * Workshop on Wednesday
 
-### Week 8: Hardware
+### Week 8: Hardware and Software
 * Part I in Brian Kernighan's *D is for Digital*
 * Friedrich Kittler, [There is No Software](http://www.ctheory.net/articles.aspx?id=74)
 * "[ENIAC: The Army-Sponsored Revolution](http://ftp.arl.army.mil/mike/comphist/96summary/index.html)" by  William T. Moye
@@ -121,12 +121,32 @@ Technology as culture and politics. Compiling text. Typesetting.
 
 **Explore**: <http://morphett.info/turing/turing.html>
 
-
 ### Week 9: Midterms
 Monday: University Holiday  
 Wednesday: Midterms / project proposals due.
 
+### Week 10: Drafts, Versions, Versioning 
+
+* Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) (1936).
+* Goodman & Elgin. "[Interpretation and Identity: Can Work Survive the World?](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/1343542)"
+* [The "Wake's Progress": Toward a Genetic Edition](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/30227768) by Dirk Van Hulle
+* Adams, Robert. [The Kane-Donaldson Edition of Piers Plowman: Eclecticism's Ultima Thule](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/30227963).
+
 # THIS SECTION IS IN FLUX DO NOT READ YET
+### Week 10: Algorithmic Imagination
+* Browse Chamberlain, William, and Thomas Etter. [The Policeman’s Beard Is Half-constructed: Computer Prose and Poetry](http://www.ubu.com/historical/racter/index.html). New York, NY: W
+
+* Knuth, Donald E. “Chapter 1: Basic Concepts” in The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition. Reading, Mass: Addison-Wesley Professional, 1997.
+
+* Aarseth, Espen J. “The Cyborg Author: Problems of Automated Poetics.” In Cybertext: Perspectives on Ergodic Literature, 129–142. Baltimore, MD: Johns Hopkins University Press, 1997.
+
+**Studio**: Intro to Git and Github.
+
+arner Software/Warner Books, 1984.
+
+### Week 11: Artificial Intelligence 
+* “Book of the Machines” chapters from Erewhon by Samuel Butler.
+
 ### Week 5: Formal and artificial languages. 
 Interpreters and interpretation.
 * Roman Jakobson, “Linguistics and Poetics”  
@@ -147,13 +167,11 @@ Computer and literary algorithms. History of algorithmic imagination.
 
 * Selections from Hollander, John. Rhyme’s Reason: A Guide to English Verse. 3rd edition. New Haven: Yale University Press, 2001.
 
-* “Book of the Machines” chapters from Erewhon by Samuel Butler. Bogost Object Oriented. Chamberlain, William, and Thomas Etter. The Policeman’s Beard Is Half-constructed: Computer Prose and Poetry. New York, NY: Warner Software/Warner Books, 1984.
+ Bogost Object Oriented. Chamberlain, William, and Thomas Etter. The Policeman’s Beard Is Half-constructed: Computer Prose and Poetry. New York, NY: Warner Software/Warner Books, 1984.
 
 * Aarseth, Espen J. “The Cyborg Author: Problems of Automated Poetics.” In Cybertext: Perspectives on Ergodic Literature, 129–142. Baltimore, MD: Johns Hopkins University Press, 1997.
 
 **Studio:** Programmer’s mindset. Where to get help. Pseudo code. 
-
-!!! Midterm TBA 
 
 ### Week 7: From text to data
 Data types. Metadata. From plain text to data. Databases. Concepts of digital and analog.
