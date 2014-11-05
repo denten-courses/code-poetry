@@ -45,7 +45,6 @@ No prior experience is required.
 Please email me if you cannot access any of these sites and documents.
 
 # Provisional Course Schedule
-## Part I | BOOTSTRAP
 ### Week 1: Plain text
 Text and hypertext. Encoding. Surface, depth. WYSIWYG. 
  
