@@ -49,12 +49,9 @@ Please email me if you cannot access any of these sites and documents.
 Text and hypertext. Encoding. Surface, depth. WYSIWYG. 
  
 * Marx, Karl. “[Preface](https://archive.org/details/acontributionto01marxgoog).” A Contribution to the Critique of Political Economy. New York, International Publishers,1970. 
-
 * Best, Stephen, and Sharon Marcus. “[Surface Reading: An Introduction.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1)” Representations 108, no. 1 (November 2009): 1–21. doi:10.1525/rep.2009.108.1.1
-
 * Hayles, N. Katherine. “[Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract).” Poetics Today 25, no. 1 (2004): 67–90.
-
-* linfo.org,  [Plain Text Definition](http://www.linfo.org/plaintext.html).
+* Explore: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 **Studio:** Terminal basics.
 
@@ -62,9 +59,7 @@ Text and hypertext. Encoding. Surface, depth. WYSIWYG.
 Technology as culture and politics. Compiling text. Typesetting.
 
 * Heidegger, Martin. [The Question Concerning Technology, and Other Essays](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Question_Concerning_Technology_and_Other_Essays.pdf). New York: Harper & Row, 1977: 3–36.
-
 * Winner, Langdon. “[Do Artifacts Have Politics?](http://innovate.ucsb.edu/wp-content/uploads/2010/02/Winner-Do-Artifacts-Have-Politics-1980.pdf)” Daedalus 109, no. 1 (January 1, 1980): 121–36.
-
 * Sontag, Susan. "[Against Interpretation](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Sontag-Against-Interpretation.pdf)."
 
 **Studio:** Pandoc and Markdown.
@@ -72,11 +67,8 @@ Technology as culture and politics. Compiling text. Typesetting.
 ### Week 3: File and filing systems
     
 * Bush, Vannevar. “[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).” The Atlantic, July 1945. 
-
 * Tagg, John. “[The Archiving Machine; Or, The Camera and the Filing Cabinet](http://www.mitpressjournals.org.ezproxy.cul.columbia.edu/doi/pdf/10.1162/GREY_a_00068).” Grey Room, no. 47 (April 1, 2012): 24–37.
-
 * Kernighan, Brian W, and Rob Pike. "The File System" in *The UNIX Programming Environment*. Englewood Cliffs, N.J.: Prentice-Hall, 1984.
-
 * Selections from *[Files](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fymsc.commons.yale.edu%2Ffiles%2F2009%2F09%2Ffiles.pdf&ei=MYgYVPfcNuzksAS2oIDgDw&usg=AFQjCNFxRRR8J6n9VQcGyk0iZ1mvcu8Fbw&sig2=ylb2qlUZAbnV-UgrhP1chw)* by Cornelia Vismann, pp 1-38.
 
 **Studio:** package management, sys admin basics
@@ -84,9 +76,7 @@ Technology as culture and politics. Compiling text. Typesetting.
 ### Week 4: Medium and Message 
 
 * Beckett, Samuel. *[Krapp’s Last Tape](https://www.msu.edu/~sullivan/BeckettKrapp.html)*.
-
 * Weaver, Warren. "[Recent Contributions to the Mathematical Theory of Communications](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Mathematical_Theory_of_Communication_-_Shannon_Weaver__1964_.pdf)", pp 1-29 in *The Mathematical Theory of Communication*.
-
 * McLuhan, Marshall. "[The Medium is the Message](https://courseworks.columbia.edu/access/content/group/ENGLW4911_001_2014_3/Marshall%20McLuhan%20Understanding%20media%20%201995.pdf)" in *Understanding Media*, pp 7-22.
 
 **Studio:**  groups, file permissions, rights management
