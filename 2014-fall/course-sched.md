@@ -102,17 +102,22 @@ Technology as culture and politics. Compiling text. Typesetting.
 * Lab on Monday 
 * Workshop on Wednesday
 
+**Studio**: "Hunting the Whale" assignment.
+
 ### Week 8: Hardware and Software
 * Part I in Brian Kernighan's *D is for Digital*
 * Friedrich Kittler, [There is No Software](http://www.ctheory.net/articles.aspx?id=74)
 * "[ENIAC: The Army-Sponsored Revolution](http://ftp.arl.army.mil/mike/comphist/96summary/index.html)" by  William T. Moye
 * "[On Computable Numbers](http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf),"  by Alan Turing (1936)
+* Explore: <http://morphett.info/turing/turing.html>
 
-**Explore**: <http://morphett.info/turing/turing.html>
+**Studio**: Turing machines.
 
 ### Week 9: Midterms
 Monday: University Holiday  
 Wednesday: Midterms / project proposals due.
+
+**Studio**: No studio this week.
 
 ### Week 10: Drafts, Versions, Versioning 
 
@@ -120,6 +125,8 @@ Wednesday: Midterms / project proposals due.
 * Goodman & Elgin. "[Interpretation and Identity: Can Work Survive the World?](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/1343542)"
 * [The "Wake's Progress": Toward a Genetic Edition](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/30227768) by Dirk Van Hulle
 * Adams, Robert. [The Kane-Donaldson Edition of Piers Plowman: Eclecticism's Ultima Thule](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/30227963).
+
+**Studio**: Git and Github, peer production, visible labor.
 
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ### Week 10: Algorithmic Imagination
