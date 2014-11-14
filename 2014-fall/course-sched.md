@@ -131,6 +131,7 @@ Wednesday: Midterms / project proposals due.
 ### Week 11: The Tree and the Rhizome
 - Deleuze and Guattari, “[Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)”
 - "[Network Theory, Plot Analysis](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) by Franco Moretti 
+- [Demystifying Networks](http://www.scottbot.net/HIAL/?p=6279) by Scott Weingart.
 
 Explore: Chapters 8 & 9 in Kernighan's book.
 
