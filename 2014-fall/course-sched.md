@@ -128,6 +128,12 @@ Wednesday: Midterms / project proposals due.
 
 **Studio**: Git and Github, peer production, visible labor.
 
+### Week 11: The Tree and the Rhizome
+- Deleuze and Guattari, “[Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)”
+- "[Network Theory, Plot Analysis](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) by Franco Moretti 
+
+Explore: Chapters 8 & 9 in Kernighan's book.
+
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ### Week 10: Algorithmic Imagination
 * Browse Chamberlain, William, and Thomas Etter. [The Policeman’s Beard Is Half-constructed: Computer Prose and Poetry](http://www.ubu.com/historical/racter/index.html). New York, NY: W
