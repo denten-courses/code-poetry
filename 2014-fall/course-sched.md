@@ -135,6 +135,14 @@ Wednesday: Midterms / project proposals due.
 
 Explore: Chapters 8 & 9 in Kernighan's book.
 
+### Week 12: Peer production
+
+- Benkler, Yochai, and Helen Nissenbaum. “[Commons-Based Peer Production and Virtue](https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf)” Journal of Political Philosophy 14, no. 4 (December 1, 2006): 394–419.
+- Monroy-Hern, res, and ez. “[Cooperation and Attribution in an Online Community of Young Creators](http://download.scratch.mit.edu/cscw2010poster2.pdf).”
+- Diakopoulos, Nicholas, Kurt Luther, Yevgeniy (Eugene) Medynskiy, and Irfan Essa. “[The Evolution of Authorship in a Remix Society](http://www.kurtluther.com/pdf/p133-diakopoulos.pdf).” In Proceedings of the Eighteenth Conference on Hypertext and Hypermedia, 133–36. HT ’07. New York, NY, USA: ACM, 2007. 
+
+**Studio:** Project management. Github workflow.
+
 # THIS SECTION IS IN FLUX DO NOT READ YET
 ### Week 10: Algorithmic Imagination
 * Browse Chamberlain, William, and Thomas Etter. [The Policeman’s Beard Is Half-constructed: Computer Prose and Poetry](http://www.ubu.com/historical/racter/index.html). New York, NY: W
@@ -231,16 +239,6 @@ Selections from Norman, Donald A. The Design of Everyday Things. New York: Basic
 Lab: Design process. Brainstorming. Wireframes.
 
 **Studio:** TBA
-
-### Week 12: Peer production
-
-* Benkler, Yochai, and Helen Nissenbaum. “Commons-Based Peer Production and Virtue” Journal of Political Philosophy 14, no. 4 (December 1, 2006): 394–419.
-
-* Monroy-Hern, res, and ez. “Cooperation and Attribution in an Online Community of Young Creators.” Accessed June 24, 2014.
-
-* Diakopoulos, Nicholas, Kurt Luther, Yevgeniy (Eugene) Medynskiy, and Irfan Essa. “The Evolution of Authorship in a Remix Society.” In Proceedings of the Eighteenth Conference on Hypertext and Hypermedia, 133–36. HT ’07. New York, NY, USA: ACM, 2007. 
-
-**Studio:** Project management. Github workflow.
 
 ### Week 13: Crypto-anarchism
 The hype and the promise of cryptography. Bitcoin. Censorship and surveillance. Privacy.
