@@ -21,7 +21,7 @@ Finally, we will contextualize our practice historically. The course will connec
 No prior experience is required.
 
 ## Requirements and Grading
-    20% Participation (class discussion + weekly forum posts + community moderation)
+    20% Online Participation (weekly forum posts)
     20% Annotated lab notebooks
     25% Midterm 
     35% Final Exam
